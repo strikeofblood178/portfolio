@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.eed24f7c.css",
+    "main.js": "/portfolio/static/js/main.fb0b3738.js",
+    "static/media/sad.docx": "/portfolio/static/media/sad.7f919c52ce4e0db10980.docx",
+    "static/media/frame-44.png": "/portfolio/static/media/frame-44.9449bf2f64c3a219048c.png",
+    "static/media/frame-22.png": "/portfolio/static/media/frame-22.e49f3fb6f47e0dea41f9.png",
+    "static/media/me-a2-3.png": "/portfolio/static/media/me-a2-3.08e223a11079d4abb7f7.png",
+    "static/media/frame_55.png": "/portfolio/static/media/frame_55.8225ba104ba4dd56ba08.png",
+    "static/media/frame_66.png": "/portfolio/static/media/frame_66.0cb722a9b8e53fe21980.png",
+    "static/media/frame-11.png": "/portfolio/static/media/frame-11.6d207044e2e4bc9f2730.png",
+    "static/media/IMG-22.jpg": "/portfolio/static/media/IMG-22.5c949c029019a7d70114.jpg",
+    "static/media/prepod5.jpg": "/portfolio/static/media/prepod5.abff49381060937335ca.jpg",
+    "static/media/prepod7.jpg": "/portfolio/static/media/prepod7.1ff4418398cb455889f4.jpg",
+    "static/media/prepod08.jpg": "/portfolio/static/media/prepod08.77a25745ce892e1d5123.jpg",
+    "static/media/frame-77.png": "/portfolio/static/media/frame-77.9be8d45bbafe68c1b33a.png",
+    "index.html": "/portfolio/index.html",
+    "main.eed24f7c.css.map": "/portfolio/static/css/main.eed24f7c.css.map",
+    "main.fb0b3738.js.map": "/portfolio/static/js/main.fb0b3738.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eed24f7c.css",
+    "static/js/main.fb0b3738.js"
+  ]
+}
