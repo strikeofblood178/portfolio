@@ -17,6 +17,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "homepage": "https://strikeofblood178.github.io/portfolio",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
 
